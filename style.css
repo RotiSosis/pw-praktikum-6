@@ -1,0 +1,42 @@
+.container {
+  padding: 20px;
+}
+
+* {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  color: antiquewhite;
+}
+
+input,
+select,
+button {
+  background-color: #222222;
+  color: antiquewhite;
+}
+
+html {
+  background-color: #222222;
+}
+
+.head-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+}
+
+table {
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hiTITLE,
+.logo-name {
+  margin-top: 25px;
+  color: #ff8e00;
+}
